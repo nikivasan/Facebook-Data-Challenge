@@ -7,4 +7,4 @@ The prompt is stated below:
 To create my recommendation, I first imported the data into a **Postgresql** database so that I could clean and manipulate the data appropriately. I think exported the results of the relevant queries into **R** to get a rough sense of how to visualize the outputs I desired (this was an iterative process). Once I finalized my thought process, I used **Tableau** to create polished versions of my visualizations. 
 
 
-*The publicly available dataset I used is linked [here] (https://www.kaggle.com/shivamb/netflix-shows)*. 
+*The publicly available dataset I used is linked [here](https://www.kaggle.com/shivamb/netflix-shows)*. 
