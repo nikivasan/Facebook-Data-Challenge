@@ -1,5 +1,5 @@
 # Facebook Data Challenge
-This repo holds the presentation and R markdown workbook that contains my final pitch for the 2021 Facebook Data Challenge. We are asked to consider a *hypothetical* world in which Facebook is trying to successfully enter the video entertainment streaming industry through a new product called 'Zuckflix'. 
+This repo holds the presentation and the pdf of my R markdown workbook that contains my final pitch for the 2021 Facebook Data Challenge. We are asked to consider a *hypothetical* world in which Facebook is trying to successfully enter the video entertainment streaming industry through a new product called 'Zuckflix'. 
 
 The prompt is stated below: 
 > Make a recommendation for what type of content we should have on 'Zuckflix'. In addition to your overall recommendation, pick a country and make a recommendation for the type of content we should have for that country in particular.
